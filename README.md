@@ -1,3 +1,5 @@
-# A C# sniffer with feathers of capturing、parsing、saving、loading、filtering、searching and reassembling
+# A C# sniffer
 
-###Referenced Wireshark for UE
+### Have feathers of capturing、parsing、saving、loading、filtering、searching and reassembling
+
+### Referenced Wireshark for UE
