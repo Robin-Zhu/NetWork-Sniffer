@@ -1,0 +1,14 @@
+E:\C# projects\MySniffer\MySniffer\bin\Release\MySniffer.exe.config
+E:\C# projects\MySniffer\MySniffer\bin\Release\MySniffer.exe
+E:\C# projects\MySniffer\MySniffer\bin\Release\MySniffer.pdb
+E:\C# projects\MySniffer\MySniffer\bin\Release\PacketDotNet.dll
+E:\C# projects\MySniffer\MySniffer\bin\Release\SharpPcap.dll
+E:\C# projects\MySniffer\MySniffer\bin\Release\PacketDotNet.xml
+E:\C# projects\MySniffer\MySniffer\bin\Release\SharpPcap.xml
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.MyForm.resources
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.FilterForm.resources
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.Properties.Resources.resources
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.csproj.GenerateResource.Cache
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.exe
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.pdb
+E:\C# projects\MySniffer\MySniffer\obj\Release\MySniffer.csprojResolveAssemblyReference.cache
